@@ -1,3 +1,2 @@
 echo #!/bin/bash 
 echo ‘id -un’
-‘id -un’
